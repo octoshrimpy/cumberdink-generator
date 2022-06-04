@@ -71,6 +71,7 @@ $color: #2980b9;
   position: relative;
   @include animate;
   top: 0;
+  user-select: none;
   
   span{
     display: border-box;
